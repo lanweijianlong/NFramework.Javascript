@@ -3,7 +3,7 @@
 
 ## Core
 
-## NLock
+## [NLock](https://github.com/hzy19860111/NFramework.Javascript/blob/master/src/nlock.js)
 简单的前端锁实现，使用方法：
 
 ```javascript
